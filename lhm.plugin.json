@@ -1,0 +1,13 @@
+{
+  "identifier": "doow-mcp",
+  "name": "Doow MCP",
+  "version": "1.0.0",
+  "description": "Connect finance and procurement teams to secure, organization-scoped Doow workflows for SaaS contracts, licenses, expenses, vendors, cards, approvals, reporting, dashboards, and connected integrations through OAuth-authorized read and write actions.",
+  "homepage": "https://www.doow.co/mcp",
+  "repository": "https://github.com/Doow-Dev/doow-mcp",
+  "cloudEndpoint": "https://mcp.doow.co/mcp",
+  "author": "Doow-Dev",
+  "authorUrl": "https://github.com/Doow-Dev",
+  "license": "Proprietary",
+  "tags": ["finance", "procurement", "saas-management", "remote", "oauth"]
+}
